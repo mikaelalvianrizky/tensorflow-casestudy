@@ -1,0 +1,2 @@
+Classification: Buatlah model klasifikasi untuk memprediksi Position dari pemain sepak bola
+Regression: Buatlah model regresi untuk memprediksi Value yang dimiliki pemain sepak bola
